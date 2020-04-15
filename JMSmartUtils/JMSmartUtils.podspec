@@ -11,4 +11,5 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target    = '8.0'
   s.ios.vendored_framework   = 'JMSmartUtils.framework'
+  s.frameworks = ["Security", "AVFoundation", "VideoToolbox", "CoreVideo", "OpenGLES"]
 end
