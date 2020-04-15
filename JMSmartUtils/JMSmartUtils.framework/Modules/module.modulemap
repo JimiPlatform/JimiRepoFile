@@ -1,0 +1,6 @@
+framework module JMSmartUtils {
+  umbrella header "JMSmartUtils.h"
+
+  export *
+  module * { export * }
+}
