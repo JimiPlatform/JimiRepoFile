@@ -1,6 +1,0 @@
-framework module JMMonitorView {
-  umbrella header "JMMonitorView.h"
-
-  export *
-  module * { export * }
-}
