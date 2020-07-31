@@ -1,0 +1,6 @@
+[submodule "ZJLog"]
+	path = ZJLog
+	url = https://github.com/Eafy/ZJLog.git
+[submodule "JMSmartUtils"]
+	path = JMSmartUtils
+	url = https://github.com/JimiPlatform/JMSmartUtils.git
