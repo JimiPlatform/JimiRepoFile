@@ -4,3 +4,12 @@
 [submodule "JMSmartUtils"]
 	path = JMSmartUtils
 	url = https://github.com/JimiPlatform/JMSmartUtils.git
+[submodule "JMMonitorView"]
+	path = JMMonitorView
+	url = https://github.com/JimiPlatform/JMMonitorView
+[submodule "JMSmartMediaPlayer"]
+	path = JMSmartMediaPlayer
+	url = https://github.com/JimiPlatform/JMSmartMediaPlayer.git
+[submodule "JMOrderCoreKit"]
+	path = JMOrderCoreKit
+	url = https://github.com/JimiPlatform/JMOrderCoreKit.git
