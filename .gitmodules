@@ -3,7 +3,7 @@
 	url = https://github.com/Eafy/ZJLog.git
 [submodule "JMSmartUtils"]
 	path = JMSmartUtils
-	url = https://github.com/JimiPlatform/JMSmartUtils.git
+	url = http://10.0.10.85/app/ios/JMSmartUtils.git
 [submodule "JMMonitorView"]
 	path = JMMonitorView
 	url = https://github.com/JimiPlatform/JMMonitorView
