@@ -16,15 +16,6 @@
 [submodule "JMSmartNetSeeker"]
 	path = JMSmartNetSeeker
 	url = http://10.0.10.85/app/ios/JMSmartNetSeeker.git
-[submodule "yoga"]
-	path = ReactNative/yoga
-	url = http://10.0.10.85/app/ios/yoga.git
-[submodule "glog"]
-	path = ReactNative/glog
-	url = http://10.0.10.85/app/ios/glog.git
-[submodule "DoubleConversion"]
-	path = ReactNative/DoubleConversion
-	url = http://10.0.10.85/app/ios/DoubleConversion.git
-[submodule "ReactNative"]
-	path = ReactNative/ReactNative
-	url = http://10.0.10.85/app/ios/ReactNative.git
+[submodule "JMSmartBluetooth"]
+	path = JMSmartBluetooth
+	url = http://10.0.10.85/app/ios/JMSmartBluetooth.git
