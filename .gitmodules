@@ -13,3 +13,6 @@
 [submodule "JMOrderCoreKit"]
 	path = JMOrderCoreKit
 	url = https://github.com/JimiPlatform/JMOrderCoreKit.git
+[submodule "JMSmartNetSeeker"]
+	path = JMSmartNetSeeker
+	url = http://10.0.10.85/app/ios/JMSmartNetSeeker.git
