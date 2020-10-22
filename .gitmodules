@@ -19,3 +19,18 @@
 [submodule "JMSmartBluetooth"]
 	path = JMSmartBluetooth
 	url = http://10.0.10.85/app/ios/JMSmartBluetooth.git
+[submodule "DoubleConversion"]
+	path = DoubleConversion
+	url = https://github.com/JimiPlatform/DoubleConversion.git
+[submodule "folly"]
+	path = folly
+	url = https://github.com/JimiPlatform/folly.git
+[submodule "glog"]
+	path = glog
+	url = https://github.com/JimiPlatform/glog.git
+[submodule "React"]
+	path = React
+	url = https://github.com/JimiPlatform/React.git
+[submodule "yoga"]
+	path = yoga
+	url = https://github.com/JimiPlatform/yoga.git
