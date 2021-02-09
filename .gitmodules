@@ -19,3 +19,6 @@
 [submodule "JMOrderCoreKit"]
 	path = JMOrderCoreKit
 	url = https://github.com/JimiPlatform/JMOrderCoreKit.git
+[submodule "JMSmartMediaPlayer"]
+	path = JMSmartMediaPlayer
+	url = https://github.com/JimiPlatform/JMSmartMediaPlayer.git
